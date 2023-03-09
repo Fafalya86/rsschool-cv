@@ -1,4 +1,4 @@
-# Zhenya Hrabava
+## Zhenya Hrabava
 # Junior Frontend Developer
 # Contacts:
 * Location: Minsk, Belarus
