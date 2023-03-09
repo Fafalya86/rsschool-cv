@@ -1,6 +1,6 @@
 ## Zhenya Hrabava
-# Junior Frontend Developer
-# Contacts:
+## Junior Frontend Developer
+### Contacts:
 * Location: Minsk, Belarus
 * Phone: +375 29 645-90-44
 * Email: je-je@tut.by
