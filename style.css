@@ -18,6 +18,9 @@ body {
   width: 400px;
   height: 400px;
   object-fit:cover;
+  margin-top: 35px;
+  margin-left: 95px;
+  margin-bottom: 32px;
   border-radius: 50%;
   box-shadow: 0 1px 4px rgb(0 0 0/60%);
   filter: grayscale(0.2) brightness(1);
@@ -66,6 +69,7 @@ header {
 h1 {
   text-align: center;
   color:blueviolet;
+  margin-top: -142px;
   margin-bottom: 0.25em;
 }
 h2 {
